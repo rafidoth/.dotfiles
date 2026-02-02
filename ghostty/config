@@ -1,0 +1,46 @@
+theme = Carbonfox
+background = #121212
+# background-opacity=0.9
+# font-family = CaskaydiaMono Nerd Font
+# font-family = JetBrainsMono Nerd Font
+font-family = SpaceMono Nerd Font
+# font-family = GeistMono 
+
+# font-family = VictorMono NF 
+
+# font-family = IosevkaTermSlab Nerd Font Mono
+font-family-bold-italic = false
+# font-family = Fira Code Retina
+# font-family = Go Mono
+# font-family = Ubuntu Mono Nerd Font
+adjust-cell-height = +10%
+window-padding-balance = true
+# title = " "
+window-padding-x = 5
+window-padding-y = 0
+window-save-state= always
+window-decoration=none
+# gtk-tabs-location = bottom
+cursor-style-blink = false
+gtk-single-instance = true
+
+
+keybind = alt+v=new_split:right
+keybind = alt+p=new_split:down
+keybind = ctrl+l=next_tab
+keybind = ctrl+h=previous_tab
+keybind = alt+a=goto_tab:1
+keybind = alt+s=goto_tab:2
+keybind = alt+d=goto_tab:3
+keybind = alt+f=goto_tab:4
+keybind = alt+l=goto_split:right
+keybind = alt+h=goto_split:left
+keybind = alt+j=goto_split:down
+keybind = alt+k=goto_split:up
+keybind = alt+t=new_tab
+keybind = ctrl+u=scroll_page_up
+keybind = ctrl+d=scroll_page_up
+keybind = alt+e=write_screen_file:paste
+
+
+
